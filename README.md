@@ -1,2 +1,0 @@
-# PasswordGeneratorJs
-Created with CodeSandbox
